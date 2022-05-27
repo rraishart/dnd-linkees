@@ -21,7 +21,7 @@ function Header() {
         <img src={avatar} alt="avatar" />
         &nbsp;&nbsp;&nbsp;
         <h2>
-          <b>Sagnik. </b>
+          <b>Dungeons & Dimebags </b>
         </h2>
       </div>
       <button className="switch-theme-button" onClick={handleSwitchTheme}>
