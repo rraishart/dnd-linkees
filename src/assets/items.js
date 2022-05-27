@@ -9,6 +9,7 @@ import twitter from '../assets/twitter.png'
 import spotify from '../assets/spotify.png'
 import tiktok from '../assets/tiktok.png'
 import patreon from '../assets/patreon.png'
+import reddit from '../assets/reddit.png'
 
 
 const items = [
