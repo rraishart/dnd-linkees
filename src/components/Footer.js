@@ -7,7 +7,7 @@ import '../css/components.css'
 function Footer() {
     return (
         <div className="Footer container">
-            <p>Made with <span class="heart">❤️</span> by <a href={"https://twitter.com/heysagnik"}>Sagnik Sahoo</a></p>
+            <p>Dungeons and Dimebags is a TTRPG live-play podcast.</p>
         </div>
     )
 }
