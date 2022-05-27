@@ -12,28 +12,9 @@ import patreon from '../assets/patreon.png'
 
 
 const items = [
-    
-//     {
-//     "title": "Website",
-//     "subtitle": "Look at my work!",
-//     "image": website,
-//     "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
-// },
-// {
-//     "title": "GitHub",
-//     "subtitle": "@heysagnik | 🏡 to all my open-source projects",
-//     "image": github,
-//     "link": "https://github.com/heysagnik" //Github Profile link
-// },
-// {
-//     "title": "Instagram",
-//     "subtitle": "@heysagnik |  Shots of my life 🙂",
-//     "image": instagram,
-//     "link": "https://instagram.com/heysagnik" //instagram profile link 
-// },
 {
     "title": "Twitter",
-    "subtitle": "@hDnDimebags | 😉",
+    "subtitle": "@DnDimebags",
     "image": twitter,
     "link": "https://twitter.com/DnDimebags"// twitter profile link 
 },
