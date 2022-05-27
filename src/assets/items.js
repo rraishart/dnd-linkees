@@ -20,6 +20,13 @@ const items = [
 },
 
 {
+    "title": "Reddit",
+    "subtitle": "A subreddit is you!",
+    "image": reddit,
+    "link": "https://reddit.com/r/DnDimebags"// subreddit link 
+},
+
+{
     "title": "TikTok",
     "subtitle": "@DnDimebags | We may or may not post here",
     "image": tiktok,
