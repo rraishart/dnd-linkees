@@ -20,12 +20,12 @@ const items = [
     "link": "https://twitter.com/DnDimebags"// twitter profile link 
 },
 
-{
-    "title": "Reddit",
-    "subtitle": "A subreddit is you!",
-    "image": reddit,
-    "link": "https://reddit.com/r/DnDimebags"// subreddit link 
-},
+// {
+//     "title": "Reddit",
+//     "subtitle": "A subreddit is you!",
+//     "image": reddit,
+//     "link": "https://reddit.com/r/DnDimebags"// subreddit link 
+// },
 
 {
     "title": "TikTok",
