@@ -38,7 +38,7 @@ const items = [
     "title": "YouTube",
     "subtitle": " Official YouTube channel ",
     "image": youtube,
-    "link": "https://www.youtube.com/"//youtube channel link 
+    "link": "https://www.youtube.com/channel/UChXfUDluT9ssVRLRIuSXtKA"//youtube channel link 
 }
 ,
 
@@ -53,7 +53,7 @@ const items = [
     "title": "Patreon",
     "subtitle": "The best way to support us",
     "image": patreon,
-    "link": "https://patreon.com/" // Our Patreon
+    "link": "https://www.patreon.com/dndimebags/" // Our Patreon
 }
 ]
 
