@@ -10,6 +10,7 @@ import spotify from '../assets/spotify.png'
 import tiktok from '../assets/tiktok.png'
 import patreon from '../assets/patreon.png'
 import reddit from '../assets/reddit.png'
+import apple from '../assets/apple.png'
 
 
 const items = [
@@ -20,12 +21,12 @@ const items = [
     "link": "https://twitter.com/DnDimebags"// twitter profile link 
 },
 
-// {
-//     "title": "Reddit",
-//     "subtitle": "A subreddit is you!",
-//     "image": reddit,
-//     "link": "https://reddit.com/r/DnDimebags"// subreddit link 
-// },
+{
+    "title": "Apple Podcasts",
+    "subtitle": "Listen to our latest podcast",
+    "image": apple,
+    "link": "https://podcasts.apple.com/us/podcast/dungeons-dimebags/id1631747844"// subreddit link 
+},
 
 {
     "title": "TikTok",
@@ -46,7 +47,7 @@ const items = [
     "title": "Spotify",
     "subtitle": "Listen to our latest podcast",
     "image": spotify,
-    "link": "https://open.spotify.com" // Spotify profile link 
+    "link": "https://open.spotify.com/show/4bimDY79p77vmh97URnM2n?si=194619b4b4bd417c" // Spotify profile link 
 }
 ,
 {
