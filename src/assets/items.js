@@ -11,6 +11,7 @@ import tiktok from '../assets/tiktok.png'
 import patreon from '../assets/patreon.png'
 import reddit from '../assets/reddit.png'
 import apple from '../assets/apple.png'
+import buzzsprout from '../assets/buzzsprout.png'
 
 
 const items = [
