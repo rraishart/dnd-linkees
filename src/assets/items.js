@@ -43,13 +43,13 @@ const items = [
 //     "link": "https://www.tiktok.com/@DnDimebags" // tiktok
 // },
 
-// {
-//     "title": "YouTube",
-//     "subtitle": " Official YouTube channel ",
-//     "image": youtube,
-//     "link": "https://www.youtube.com/channel/UChXfUDluT9ssVRLRIuSXtKA"//youtube channel link 
-// }
-// ,
+{
+    "title": "YouTube",
+    "subtitle": " Official YouTube channel ",
+    "image": youtube,
+    "link": "https://www.youtube.com/channel/UChXfUDluT9ssVRLRIuSXtKA"//youtube channel link 
+}
+,
 
 
 {
